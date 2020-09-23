@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+}
+
+h1{
+    color: rgba(0,0,0,.8);
+    font-size: 36px;
+    text-align: center;
+    font: Arial;
+}
+
+figcaption{
+    text-align: center;
+}
+
+figure{
+    margin: 0;
+}
+
+img{
+    width: 100%;
+    height: auto;      
+}
+
+p{
+    color: rgba (0,0,0,.8);
+    font: Georgia;
+    font-size: 21px;
+    line-height: 1.58;
+    letter-spacing: -.003em;
+}
+
+a{
+    color: rgba(0,0,0,.8);    
+}
+
+a:hover{
+    color: rgba(153,153,153,1)
+}
+
+article{
+    max-width: 700px;
+    letter-spacing: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
